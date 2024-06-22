@@ -1,0 +1,62 @@
+
+feidaotubiao.png
+size: 1335,345
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b1
+  rotate: true
+  xy: 712, 8
+  size: 57, 95
+  orig: 57, 95
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 401, 34
+  size: 309, 309
+  orig: 329, 329
+  offset: 10, 10
+  index: -1
+tou
+  rotate: true
+  xy: 1236, 205
+  size: 138, 97
+  orig: 138, 97
+  offset: 0, 0
+  index: -1
+xiaba
+  rotate: false
+  xy: 906, 26
+  size: 97, 39
+  orig: 97, 39
+  offset: 0, 0
+  index: -1
+you chibang
+  rotate: false
+  xy: 990, 89
+  size: 244, 254
+  orig: 244, 254
+  offset: 0, 0
+  index: -1
+youdao
+  rotate: false
+  xy: 2, 2
+  size: 397, 341
+  orig: 398, 341
+  offset: 1, 0
+  index: -1
+yuanquan
+  rotate: false
+  xy: 712, 67
+  size: 276, 276
+  orig: 276, 276
+  offset: 0, 0
+  index: -1
+zi1
+  rotate: true
+  xy: 809, 8
+  size: 57, 95
+  orig: 57, 95
+  offset: 0, 0
+  index: -1
