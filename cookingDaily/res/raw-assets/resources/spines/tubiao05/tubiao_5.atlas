@@ -1,0 +1,48 @@
+
+tubiao_5.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin-front-logo1
+  rotate: false
+  xy: 2, 14
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+coin-front-spineboy1
+  rotate: false
+  xy: 2, 14
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+coin-front-shine-logo1
+  rotate: false
+  xy: 91, 14
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+coin-front-shine-spineboy1
+  rotate: false
+  xy: 91, 14
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+coin-side-round2
+  rotate: false
+  xy: 180, 14
+  size: 44, 87
+  orig: 44, 87
+  offset: 0, 0
+  index: -1
+coin-side-straight2
+  rotate: true
+  xy: 2, 2
+  size: 10, 87
+  orig: 10, 87
+  offset: 0, 0
+  index: -1
